@@ -3,7 +3,7 @@
 這是一套校內使用的「大學個人申請」報名系統，以學校 Google 帳號登入後，學生可以選填志願、封存並列印證明；導師可以掌握班級同學的填報狀況。資料儲存在 Google 試算表，維護簡單、流程清楚。
 
 ## 📄 建立副本
-請將 [[大學個人申請校內報名系統](https://docs.google.com/spreadsheets/d/1Ciaef_VL7WAy8aswsPhZpkAa_lrBKJFT29x06Oongg4/edit?usp=drive_link)]的試算表複製到您自己的 Google 雲端硬碟，複製後檔案名稱可以任意修改 。
+- 請將 [[大學個人申請校內報名系統](https://docs.google.com/spreadsheets/d/1Ciaef_VL7WAy8aswsPhZpkAa_lrBKJFT29x06Oongg4/copy)]的試算表複製到您自己的 Google 雲端硬碟，複製後檔案名稱可以任意修改 。
 
 ## ✨ 功能重點
 - 學生報名：選志願、儲存、清空、封存；封存後自動產生 PDF 證明
