@@ -115,3 +115,7 @@
 ## ©️ 授權與廣告
 - 版權採用 MIT License 授權，也容許自訂義版權宣告，如果可以請表彰作者的名字
 - 廣告功能，可在 `設定` 工作表啟用/停用，廣告內容由 Google 廣告平台提供，如果可以請保持啟用
+
+## 🙏 致謝
+歡迎參觀我的網站 [Gas Station](https://script.google.com/a/macros/gms.hlgs.hlc.edu.tw/s/AKfycbzS29sVfv6vUKcXY8zhHl8XZKU52VfvjxzqeEQACrAufS7JiWOexlIYgyfgtCusAVJt/exec "GAS Station")，裡頭也許會有一些能幫助您的工具、程式，甚至是提供您創意的靈感。如果您願意的話，也非常樂意接受您的[打賞](https://p.ecpay.com.tw/36FF207 "打賞")。❤️  
+Copyright (c) 2025 Chang, Chia-Cheng 張家誠
