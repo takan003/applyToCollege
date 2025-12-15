@@ -19,7 +19,7 @@
 - 前端：Apps Script HTML 模板 + Bootstrap 5.3 + Bootstrap Icons
 - 後端：Google Apps Script（V8）
 - 資料：Google 試算表（多工作表）
-- 文件：以 Google Docs 生成 PDF，連結回寫至學生資料
+- 文件：以 Google Docs 生成 PDF，儲存作為證明
 
 ## 🚀 快速上手
 - 建立試算表：依下方「必備工作表與欄位」建立各工作表（名稱需一致）
